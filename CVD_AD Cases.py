@@ -34,6 +34,7 @@ print(df)
 
 df.drop(0,inplace=True)
 df.drop(231,inplace=True)
+df.drop(232,inplace=True)
 
 
 j=[]
